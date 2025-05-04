@@ -1,1 +1,1 @@
-Basic NLP
+Machine learning Crash course
